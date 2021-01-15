@@ -18,7 +18,7 @@ public class Boid_Spawner : MonoBehaviour
     public float perceptionRadius;
     public float3 target;
     public UnityEngine.Material material;
-    public UnityEngine.Material material2;
+    //public UnityEngine.Material material2;
     public List<Entity> debugEntities;
     public Mesh mesh;
     public float maxSpeed;
